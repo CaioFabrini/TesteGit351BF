@@ -7,26 +7,4 @@
 
 import Foundation
 
-print("Hello, World!")
-
-
-
-
-print("Novo teste")
-print("Novo teste")
-print("Novo teste")
-
-
-print("Novo teste")
-print("Novo teste")
-print("Novo teste")
-
-
-print("Novo teste")
-print("Novo teste")
-print("Novo teste")
-
-
-print("Novo teste")
-print("Novo teste")
-print("Novo teste")
+print("Test Git!")
