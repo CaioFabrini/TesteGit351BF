@@ -9,4 +9,4 @@ import Foundation
 
 print("Test Git!")
 
-print("Essa é a branch Login")
+print("Essa é a branch Login + Cadastro")
